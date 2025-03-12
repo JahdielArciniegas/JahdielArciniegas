@@ -6,6 +6,9 @@
 <img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,sass,js,ts,figma,astro"/>
 <br>
 
+- **Back-End Development**:
+<img height="40" src="https://skillicons.dev/icons?i=nodejs,express,vite"/>
+
 <!--
 **JahdielArciniegas/JahdielArciniegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
