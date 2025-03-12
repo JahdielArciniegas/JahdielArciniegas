@@ -16,6 +16,13 @@
 <br>
 
  <img src="https://github-readme-stats.vercel.app/api?username=JahdielArciniegas&show_icons=true&locale=es&layout=compact&theme=merko" alt="JahdielArciniegas" />
+ <br>
+ <div>
+     <a href="https://github.com/JahdielArciniegas/FullStackOpen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JahdielArciniegas&repo=FullStackOpen"></img></a>
+     <a href="https://github.com/JahdielArciniegas/project-farmacia-bouna-vita"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JahdielArciniegas&repo=project-farmacia-bouna-vita"></img></a>
+     <a href="https://github.com/JahdielArciniegas/FullStackOpenPart3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JahdielArciniegas&repo=FullStackOpenPart3"></img></a>
+     <a href="https://github.com/JahdielArciniegas/FullStackOpen-ts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JahdielArciniegas&repo=FullStackOpen-ts"></img></a>
+ </div>
 <!--
 **JahdielArciniegas/JahdielArciniegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
