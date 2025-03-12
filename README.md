@@ -3,14 +3,9 @@
 <br>
     
 - **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
+<img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,sass,js,ts,figma,astro"/>
 <br>
 
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 <!--
 **JahdielArciniegas/JahdielArciniegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
