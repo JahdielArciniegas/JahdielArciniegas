@@ -8,7 +8,9 @@
 
 - **Back-End Development**:
 <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,vite"/>
+<br>
 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=JahdielArciniegas&&theme=tokyonight" alt="JahdielArciniegas" />
 <!--
 **JahdielArciniegas/JahdielArciniegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
