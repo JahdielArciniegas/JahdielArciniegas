@@ -15,7 +15,7 @@
 
 <br>
 
- <img src="https://github-readme-stats.vercel.app/api?username=JahdielArciniegas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JahdielArciniegas" />
+ <img src="https://github-readme-stats.vercel.app/api?username=JahdielArciniegas&show_icons=true&locale=es&layout=compact&theme=merko" alt="JahdielArciniegas" />
 <!--
 **JahdielArciniegas/JahdielArciniegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
