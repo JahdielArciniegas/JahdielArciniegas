@@ -11,7 +11,7 @@
 <br>
 
 - **DataBase**:
-<img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,SQLite"/>
+<img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
 
 <br>
 
