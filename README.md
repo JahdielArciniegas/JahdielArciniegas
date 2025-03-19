@@ -1,7 +1,9 @@
 
+<div align="center">
+    <h1>  GitHub de Jahdiel Arciniegas </h1>
+    <p>Soy un entusiasta de la programación con muchas ganas de subir de nivel.</p>
+</div>
 
-##  GitHub de Jahdiel Arciniegas
-<p>Soy un entusiasta de la programación con muchas ganas de subir de nivel.</p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades </b>
 <br>
@@ -18,10 +20,11 @@
 <img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
 
 <br>
-
- <img src="https://github-readme-stats.vercel.app/api?username=JahdielArciniegas&show_icons=true&locale=es&layout=compact&theme=merko" alt="JahdielArciniegas" />
- <br>
- <div>
+        
+ 
+ <div align="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=JahdielArciniegas&show_icons=true&locale=es&layout=compact&theme=merko" alt="JahdielArciniegas" />
+     <br>
      <a href="https://github.com/JahdielArciniegas/FullStackOpen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JahdielArciniegas&repo=FullStackOpen&theme=merko"></img></a>
      <a href="https://github.com/JahdielArciniegas/project-farmacia-bouna-vita"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JahdielArciniegas&repo=project-farmacia-bouna-vita&theme=merko"></img></a>
      <a href="https://github.com/JahdielArciniegas/FullStackOpenPart3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JahdielArciniegas&repo=FullStackOpenPart3&theme=merko"></img></a>
