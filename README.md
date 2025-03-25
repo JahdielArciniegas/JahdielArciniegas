@@ -8,7 +8,7 @@
 <br>
     
 - **Desarrollo Frontend**:
-<img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,sass,js,ts,figma,astro"/>
+<img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,sass,js,ts,figma,astro,tailwind"/>
 <br>
 
 - **Desarrollo Backend**:
