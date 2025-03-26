@@ -1,7 +1,10 @@
 
+<a href="https://github.com/JahdielArciniegas/JahdielArciniegas/blob/main/PortadaPerfilGit.jp">
+<img src="https://github.com/JahdielArciniegas/JahdielArciniegas/blob/main/PortadaPerfilGit.jpg" alt="Imagen Portada" style="width:auto; height:auto">
+</a>
+
 <h1 align="center">  GitHub de Jahdiel Arciniegas </h1>
 <p>Soy un entusiasta de la programación con muchas ganas de subir de nivel.</p>
-
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b align="center"> Habilidades </b>
