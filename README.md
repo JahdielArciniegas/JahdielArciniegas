@@ -25,12 +25,9 @@
         
  
  <div align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=JahdielArciniegas&show_icons=true&locale=es&layout=compact&theme=merko" alt="JahdielArciniegas" />
-     <br>
-     <a href="https://github.com/JahdielArciniegas/FullStackOpen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JahdielArciniegas&repo=FullStackOpen&theme=merko"></img></a>
-     <a href="https://github.com/JahdielArciniegas/project-farmacia-bouna-vita"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JahdielArciniegas&repo=project-farmacia-bouna-vita&theme=merko"></img></a>
-     <a href="https://github.com/JahdielArciniegas/FullStackOpenPart3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JahdielArciniegas&repo=FullStackOpenPart3&theme=merko"></img></a>
-     <a href="https://github.com/JahdielArciniegas/FullStackOpen-ts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JahdielArciniegas&repo=FullStackOpen-ts&theme=merko"></img></a>
+     <h3>Estadisticas de Github</h3>
+     <img height="180" src="https://github-readme-stats.vercel.app/api?username=JahdielArciniegas&show_icons=true&locale=es&layout=compact&theme=merko" alt="JahdielArciniegas" />
+     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahdielArciniegas&show_icons=true&locale=es&layout=compact&theme=merko" alt="JahdielArciniegas" />
  </div>
 <!--
 **JahdielArciniegas/JahdielArciniegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
