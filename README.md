@@ -1,6 +1,6 @@
 
 <a href="https://github.com/JahdielArciniegas/JahdielArciniegas/blob/main/PortadaPerfilGit.jp">
-<img src="https://github.com/JahdielArciniegas/JahdielArciniegas/blob/main/PortadaPerfilGit.jpg" alt="Imagen Portada" style="width:auto; height:auto">
+<img src="https://github.com/JahdielArciniegas/JahdielArciniegas/blob/main/PortPerfilGit.jpg" alt="Imagen Portada" style="width:auto; height:auto">
 </a>
 
 <h1 align="center">  GitHub de Jahdiel Arciniegas </h1>
