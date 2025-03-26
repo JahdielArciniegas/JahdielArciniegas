@@ -3,8 +3,8 @@
 <img src="https://github.com/JahdielArciniegas/JahdielArciniegas/blob/main/PortPerfilGit.jpg" alt="Imagen Portada" style="width:auto; height:auto">
 </a>
 
-<h1 align="center">  GitHub de Jahdiel Arciniegas </h1>
-<p>Soy un entusiasta de la programación con muchas ganas de subir de nivel.</p>
+<h1 align="center">  🟢 Hola, Soy Jahdiel Arciniegas 🟢 </h1>
+<h4> 🌠 Soy desarrollador web FullStack, apasionado por el desarrollo de aplicaciones y resolucion de problemas, en constante mejora y aprendizaje de nuevas tecnologias para asi evolucionar como persona en el mundo de la informatica</h4>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b align="center"> Habilidades </b>
