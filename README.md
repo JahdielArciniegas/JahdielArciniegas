@@ -7,21 +7,19 @@
 <h4> 🌠 Soy desarrollador web FullStack, apasionado por el desarrollo de aplicaciones y resolucion de problemas, en constante mejora y aprendizaje de nuevas tecnologias para asi evolucionar como persona en el mundo de la informatica</h4>
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b align="center"> Habilidades </b>
-<br>
+<div>
+    <h3>✨ Sobre Mi ✨</h3>
+    <div align = "left">
+        <h4>
+        🧑🏻‍💼 Actualmente trabajando en mejorar mis habilidades de programador. <br>
+        🎯 Experiencia en desarrollar multiples aplicaciónes web estaticas y con interacción destacando React y Node.js como tecnologías principales. <br>
+        🖥 Amante de todo lo que tenga que ver con la tecnología, tanto el apartado de hardware como de software. <br>
+        🐜 Cada detalle por mas minimo que sea hace grandes cambios.
+        <h4>
+    </div>
+</div>
     
-- **Desarrollo Frontend**:
-<img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,sass,js,ts,figma,astro,tailwind"/>
-<br>
 
-- **Desarrollo Backend**:
-<img height="40" src="https://skillicons.dev/icons?i=nodejs,express,vite"/>
-<br>
-
-- **Base de datos**:
-<img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
-
-<br>
         
  
  <div align="center">
