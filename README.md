@@ -9,7 +9,7 @@
 
 <div>
     <h2 align="center">✨ Sobre Mi ✨</h2>
-    <img align="right" width="200" src="https://github.com/JahdielArciniegas/JahdielArciniegas/blob/main/ImagenAnime.jpeg">
+    <img align="right" width="400" src="https://github.com/JahdielArciniegas/JahdielArciniegas/blob/main/ImagenAnime.jpeg">
     <div align = "left">
         <h4>
         🧑🏻‍💼 Actualmente trabajando en mejorar mis habilidades de programador. <br>
@@ -25,8 +25,8 @@
  
  <div align="left">
      <h3>Estadisticas de Github</h3>
-     <img height="180"  src="https://github-readme-stats.vercel.app/api?username=JahdielArciniegas&show_icons=true&locale=es&layout=compact&theme=merko" alt="JahdielArciniegas" />
-     <img height="180"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahdielArciniegas&show_icons=true&locale=es&layout=compact&theme=merko" alt="JahdielArciniegas" />
+     <img width="400"  src="https://github-readme-stats.vercel.app/api?username=JahdielArciniegas&show_icons=true&locale=es&layout=compact&theme=merko" alt="JahdielArciniegas" />
+     <img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahdielArciniegas&show_icons=true&locale=es&layout=compact&theme=merko" alt="JahdielArciniegas" />
  </div>
 <!--
 **JahdielArciniegas/JahdielArciniegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
