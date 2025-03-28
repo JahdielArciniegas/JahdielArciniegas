@@ -23,7 +23,7 @@
 
         
  
- <div align="center">
+ <div align="left">
      <h3>Estadisticas de Github</h3>
      <img height="180"  src="https://github-readme-stats.vercel.app/api?username=JahdielArciniegas&show_icons=true&locale=es&layout=compact&theme=merko" alt="JahdielArciniegas" />
      <img height="180"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahdielArciniegas&show_icons=true&locale=es&layout=compact&theme=merko" alt="JahdielArciniegas" />
