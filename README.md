@@ -27,6 +27,7 @@
      <h3>Estadisticas de Github</h3>
      <img width="400"  src="https://github-readme-stats.vercel.app/api?username=JahdielArciniegas&show_icons=true&locale=es&layout=compact&theme=merko" alt="JahdielArciniegas" />
      <img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahdielArciniegas&show_icons=true&locale=es&layout=compact&theme=merko" alt="JahdielArciniegas" />
+     <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=JahdielArciniegas&theme=merko&hide_border=false" alt="JahdielArciniegas" />
  </div>
 <!--
 **JahdielArciniegas/JahdielArciniegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
