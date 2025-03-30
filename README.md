@@ -4,18 +4,18 @@
 </a>
 
 <h1 align="center">  🟢 Hola, Soy Jahdiel Arciniegas 🟢 </h1>
-<h3> 🌠 Soy desarrollador web FullStack, apasionado por el desarrollo de aplicaciones y resolucion de problemas, en constante mejora y aprendizaje de nuevas tecnologias para asi evolucionar como persona en el mundo de la informatica</h3>
+<h3> 🌠 Desarrollador Web FullStack, apasionado por el desarrollo de aplicaciones web y resolución de problemas, en constante mejora y aprendizaje de nuevas tecnologías, para asi evolucionar como persona en el mundo de la informática</h3>
 
 
 <div>
-    <h2 align="center">✨ Sobre Mi ✨</h2>
+    <h2 align="center">✨ Sobre Mí ✨</h2>
     <img align="right" width="400" src="https://github.com/JahdielArciniegas/JahdielArciniegas/blob/main/ImagenAnime.jpeg">
     <div align = "left">
         <h4>
-        🧑🏻‍💼 Actualmente trabajando en mejorar mis habilidades de programador. <br>
-        🎯 Experiencia en desarrollar multiples aplicaciónes web estaticas y con interacción destacando React y Node.js como tecnologías principales. <br>
-        🖥 Amante de todo lo que tenga que ver con la tecnología, tanto el apartado de hardware como de software. <br>
-        🐜 Cada detalle por mas minimo que sea hace grandes cambios.
+        🧑🏻‍💼 Actualmente me encuentro mejorando mis habilidades como programador.<br>
+🎯 Tengo experiencia en el desarrollo de múltiples aplicaciones web, tanto estáticas como interactivas, destacando React y Node.js como mis principales tecnologías.<br>
+🖥 Soy un apasionado de todo lo relacionado con la tecnología, tanto en el ámbito del hardware como del software.<br>
+🐜 Creo firmemente que cada detalle, por pequeño que sea, puede generar grandes cambios.<br>
         <h4>
     </div>
 </div>
