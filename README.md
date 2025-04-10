@@ -54,6 +54,7 @@
      <img src="https://img.shields.io/badge/jwt-228B22?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=f5f4f6"/>
      <img src="https://img.shields.io/badge/vercel-228B22?style=for-the-badge&logo=vercel&logoColor=f5f4f6"/>
      <img src="https://img.shields.io/badge/react router-228B22?style=for-the-badge&logo=reactrouter&logoColor=f5f4f6"/>
+     <img src="https://img.shields.io/badge/graph ql-228B22?style=for-the-badge&logo=graphql&logoColor=f5f4f6"/>
  </div>
 <!--
 **JahdielArciniegas/JahdielArciniegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
