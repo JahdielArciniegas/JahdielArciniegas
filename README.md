@@ -33,7 +33,7 @@
  <div>
      <h2 align="center">⌨️ Tecnologías </h2>
      <img src="https://img.shields.io/badge/javascript-228B22?style=for-the-badge&logo=javascript&logoColor=f5f4f6"/>
-     <img src="https://img.shields.io/badge/css-228B22?style=for-the-badge&logo=css3&logoColor=f5f4f6"/>
+     <img src="https://img.shields.io/badge/css-228B22?style=for-the-badge&logo=css&logoColor=f5f4f6"/>
      <img src="https://img.shields.io/badge/html-228B22?style=for-the-badge&logo=html5&logoColor=f5f4f6"/>
      <img src="https://img.shields.io/badge/sass-228B22?style=for-the-badge&logo=sass&logoColor=f5f4f6"/>
      <img src="https://img.shields.io/badge/react-228B22?style=for-the-badge&logo=react&logoColor=f5f4f6"/>
@@ -56,8 +56,11 @@
      <img src="https://img.shields.io/badge/react router-228B22?style=for-the-badge&logo=reactrouter&logoColor=f5f4f6"/>
      <img src="https://img.shields.io/badge/graph ql-228B22?style=for-the-badge&logo=graphql&logoColor=f5f4f6"/>
      <img src="https://img.shields.io/badge/next.js-228B22?style=for-the-badge&logo=next.js&logoColor=f5f4f6"/>
-     <img src="https://img.shields.io/badge/shadcn-228B22?style=for-the-badge&logo=shadcnui&logoColor=f5f4f6"/><img src="https://img.shields.io/badge/zustand-228B22?style=for-the-badge&logo=zustand&logoColor=f5f4f6"/>
+     <img src="https://img.shields.io/badge/shadcn-228B22?style=for-the-badge&logo=shadcnui&logoColor=f5f4f6"/>
+     <img src="https://img.shields.io/badge/zustand-228B22?style=for-the-badge&logo=zustand&logoColor=f5f4f6"/>
      <img src="https://img.shields.io/badge/gsap-228B22?style=for-the-badge&logo=gsap&logoColor=f5f4f6"/>
+     <img src="https://img.shields.io/badge/pocketbase.io-228B22?style=for-the-badge&logo=pocketbase&logoColor=f5f4f6"/>
+     
  </div>
 <!--
 **JahdielArciniegas/JahdielArciniegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
