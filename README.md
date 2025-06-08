@@ -60,6 +60,7 @@
      <img src="https://img.shields.io/badge/zustand-228B22?style=for-the-badge&logo=zustand&logoColor=f5f4f6"/>
      <img src="https://img.shields.io/badge/gsap-228B22?style=for-the-badge&logo=gsap&logoColor=f5f4f6"/>
      <img src="https://img.shields.io/badge/pocketbase.io-228B22?style=for-the-badge&logo=pocketbase&logoColor=f5f4f6"/>
+     <img src="https://img.shields.io/badge/react native-228B22?style=for-the-badge&logo=react&logoColor=f5f4f6"/>
      
  </div>
 <!--
