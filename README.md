@@ -9,7 +9,7 @@
 
 <div>
     <h2 align="center">✨ Sobre Mí ✨</h2>
-    <img align="right" width="400" src="https://github.com/JahdielArciniegas/JahdielArciniegas/blob/main/ImagenAnime.jpeg">
+    <img align="right" width="150" src="https://github.com/JahdielArciniegas/JahdielArciniegas/blob/main/ImagenAnime.jpeg">
     <div align = "left">
         <h4>
         🧑🏻‍💼 Actualmente me encuentro mejorando mis habilidades como programador.<br>
@@ -19,16 +19,6 @@
         <h4>
     </div>
 </div>
-
-
-        
- 
- <div align="left">
-     <h3>📈 Estadisticas de Github</h3>
-     <img width="400"  src="https://github-readme-stats.vercel.app/api?username=JahdielArciniegas&show_icons=true&locale=es&layout=compact&theme=merko" alt="JahdielArciniegas" />
-     <img width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahdielArciniegas&show_icons=true&locale=es&layout=compact&theme=merko" alt="JahdielArciniegas" />
-     <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=JahdielArciniegas&theme=merko&hide_border=false" alt="JahdielArciniegas" />
- </div>
 <br>
  <div>
      <h2 align="center">⌨️ Tecnologías </h2>
