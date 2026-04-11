@@ -1,6 +1,6 @@
 
-<a href="https://github.com/JahdielArciniegas/JahdielArciniegas/blob/main/PortadaPerfilGit.jp">
-<img src="https://github.com/JahdielArciniegas/JahdielArciniegas/blob/main/PortPerfilGit.jpg" alt="Imagen Portada" style="width:auto; height:auto">
+<a href="https://github.com/JahdielArciniegas/JahdielArciniegas/blob/main/stack.png">
+<img src="https://github.com/JahdielArciniegas/JahdielArciniegas/blob/main/stack.png" alt="Imagen Portada" style="width:auto; height:auto">
 </a>
 
 <h1 align="center">  🟢 Hola, Soy Jahdiel Arciniegas 🟢 </h1>
@@ -40,6 +40,11 @@
      <img src="https://img.shields.io/badge/html-228B22?style=for-the-badge&logo=html5&logoColor=f5f4f6"/>
      <img src="https://img.shields.io/badge/c-228B22?style=for-the-badge&logo=c&logoColor=f5f4f6"/>
  </div>
+ <br>
+
+<a href="https://github.com/JahdielArciniegas/JahdielArciniegas/blob/main/PortadaPerfilGit.jpg">
+<img src="https://github.com/JahdielArciniegas/JahdielArciniegas/blob/main/PortPerfilGit.jpg" alt="Imagen footer" style="width:auto; height:auto">
+</a>
 <!--
 **JahdielArciniegas/JahdielArciniegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
