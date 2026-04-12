@@ -12,11 +12,12 @@
     <img align="right" width="150" src="https://github.com/JahdielArciniegas/JahdielArciniegas/blob/main/ImagenAnime.jpeg">
     <div align = "left">
         <h4>
-        🧑🏻‍💼 Actualmente me encuentro mejorando mis habilidades como programador.<br>
-🎯 Tengo experiencia en el desarrollo de múltiples aplicaciones web, tanto estáticas como interactivas, destacando Node.js como mi principal tecnologías.<br>
-🖥 Soy un apasionado de todo lo relacionado con la tecnología, tanto en el ámbito del hardware como del software.<br>
-🐜 Creo firmemente que cada detalle, por pequeño que sea, puede generar grandes cambios.<br>
+            🧑🏻‍💼 Actualmente me encuentro mejorando mis habilidades como programador.<br>
+            🎯 Tengo experiencia en el desarrollo de múltiples aplicaciones web, tanto estáticas como interactivas, destacando Node.js como mi principal tecnologías.<br>
+            🖥 Soy un apasionado de todo lo relacionado con la tecnología, tanto en el ámbito del hardware como del software.<br>
+            🐜 Creo firmemente que cada detalle, por pequeño que sea, puede generar grandes cambios.<br>
         <h4>
+        ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=JahdielArciniegas&theme=dark)
     </div>
 </div>
 <br>
