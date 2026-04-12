@@ -17,7 +17,6 @@
             🖥 Soy un apasionado de todo lo relacionado con la tecnología, tanto en el ámbito del hardware como del software.<br>
             🐜 Creo firmemente que cada detalle, por pequeño que sea, puede generar grandes cambios.<br>
         <h4>
-        ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=JahdielArciniegas&theme=dark)
     </div>
 </div>
 <br>
