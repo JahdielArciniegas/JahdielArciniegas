@@ -25,6 +25,7 @@
      <img src="https://img.shields.io/badge/node.js-228B22?style=for-the-badge&logo=node.js&logoColor=f5f4f6"/>
      <img src="https://img.shields.io/badge/express-228B22?style=for-the-badge&logo=express&logoColor=f5f4f6"/>
      <img src="https://img.shields.io/badge/typescript-228B22?style=for-the-badge&logo=typescript&logoColor=f5f4f6"/>
+     <img src="https://img.shields.io/badge/docker-228B22?style=for-the-badge&logo=docker&logoColor=f5f4f6"/>
      <img src="https://img.shields.io/badge/javascript-228B22?style=for-the-badge&logo=javascript&logoColor=f5f4f6"/>
      <img src="https://img.shields.io/badge/sqlite-228B22?style=for-the-badge&logo=sqlite&logoColor=f5f4f6"/>
     <img src="https://img.shields.io/badge/mysql-228B22?style=for-the-badge&logo=mysql&logoColor=f5f4f6"/>
